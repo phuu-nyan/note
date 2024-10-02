@@ -1,0 +1,38 @@
+#fav_animal {
+  height: 200px;
+}
+
+
+/* mouseover removing action and adding action
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.note {
+  border: 2px solid;
+  padding: 10px;
+  background-color: rgb(255, 255, 201);
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+
+
+}
+
+.shadow {
+  box-shadow: 5px 5px 5px #999;
+  position: relative;
+  bottom: 5px;
+  cursor: pointer;
+} */
+
+/* ADD & SUBTRACT 
+#count {
+  background-color: purple;
+  columns: white;
+  padding: 10px;
+
+} */
+
