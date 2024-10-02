@@ -1,3 +1,4 @@
+/*   html and css pick dog and cat
 let animalImg = document.querySelector("#fav_animal");
 
 function pickcat() {
@@ -6,11 +7,15 @@ function pickcat() {
 
 function pickdog() {
   animalImg.src = "./static/dog pic.jpg";
-}
+} */
 /* TURNOFF
 function turnoff(element) {
  element.innerText = "Off"
 } */
+
+function increment_cart() {
+  cart_count.innerText++
+}
 
 /* mouseover removing action and adding action
 
